@@ -1,0 +1,8 @@
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\bin\Release\Server.exe.config
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\bin\Release\Server.exe
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\bin\Release\Server.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\bin\Release\Shared.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\bin\Release\Shared.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\obj\Release\Server.exe
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Server\obj\Release\Server.pdb

@@ -1,0 +1,16 @@
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\bin\Debug\Test.dll
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\bin\Debug\Test.pdb
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\bin\Debug\Server.exe
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\bin\Debug\Server.pdb
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\obj\Debug\Test.dll
+C:\Daten\Dropbox\Dev\NET\AlexWebserver\Test\obj\Debug\Test.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\obj\Debug\Test.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\obj\Debug\Test.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Test.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Test.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Server.exe
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Shared.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Server.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Test\bin\Debug\Shared.pdb

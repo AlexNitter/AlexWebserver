@@ -1,0 +1,4 @@
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Shared\bin\Release\Shared.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Shared\bin\Release\Shared.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Shared\obj\Release\Shared.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Shared\obj\Release\Shared.pdb

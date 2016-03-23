@@ -1,0 +1,9 @@
+﻿GET http://www.heise.de/ HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: de-DE
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: www.heise.de
+Connection: Keep-Alive
+Cookie: wt_r=1; _cb_ls=1; _chartbeat2=Du6ezrD7f5gQpnDHw.1458060863757.1458060863757.1; _v__chartbeat3=C7zjabC4a68mCLzhbW; __gads=ID=7bdcc472329da103:T=1458060852:S=ALNI_MYAyIprg0VqfyTi7k_l9qLNcGUE-Q; wt3_eid=%3B288689636920174%7C2145806085500388313%232145806085500137419; wt3_sid=%3B288689636920174
+

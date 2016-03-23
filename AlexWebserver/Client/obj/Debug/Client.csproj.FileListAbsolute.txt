@@ -1,0 +1,8 @@
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\bin\Debug\Client.exe.config
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\bin\Debug\Client.exe
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\bin\Debug\Client.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\obj\Debug\Client.exe
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\obj\Debug\Client.pdb
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\bin\Debug\Shared.dll
+C:\Users\anitter\Desktop\AlexWebserver\AlexWebserver\Client\bin\Debug\Shared.pdb
