@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{909D806F-F243-4552-963B-2E8B8524C0F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97E229EA-FD34-42DD-8C13-93042628ADA6}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\AlexWebserver Dokumentation.docx = Doc\AlexWebserver Dokumentation.docx
+		Doc\Zeichnung1.vsdx = Doc\Zeichnung1.vsdx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
