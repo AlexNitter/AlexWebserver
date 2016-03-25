@@ -29,3 +29,8 @@ C:\Daten\DEV\Git\AlexWebserver\Server\obj\Debug\Server.csprojResolveAssemblyRefe
 C:\Daten\DEV\Git\AlexWebserver\src\Server\bin\Debug\Server.exe.config
 C:\Daten\DEV\Git\AlexWebserver\src\Server\obj\Debug\Server.exe
 C:\Daten\DEV\Git\AlexWebserver\src\Server\obj\Debug\Server.pdb
+C:\Daten\DEV\Git\AlexWebserver\src\Server\bin\Debug\Server.exe
+C:\Daten\DEV\Git\AlexWebserver\src\Server\bin\Debug\Server.pdb
+C:\Daten\DEV\Git\AlexWebserver\src\Server\bin\Debug\Shared.dll
+C:\Daten\DEV\Git\AlexWebserver\src\Server\bin\Debug\Shared.pdb
+C:\Daten\DEV\Git\AlexWebserver\src\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

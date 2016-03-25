@@ -7,3 +7,7 @@ C:\Daten\DEV\Git\AlexWebserver\Shared\bin\Debug\Shared.pdb
 C:\Daten\DEV\Git\AlexWebserver\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
 C:\Daten\DEV\Git\AlexWebserver\Shared\obj\Debug\Shared.dll
 C:\Daten\DEV\Git\AlexWebserver\Shared\obj\Debug\Shared.pdb
+C:\Daten\DEV\Git\AlexWebserver\src\Shared\bin\Debug\Shared.dll
+C:\Daten\DEV\Git\AlexWebserver\src\Shared\bin\Debug\Shared.pdb
+C:\Daten\DEV\Git\AlexWebserver\src\Shared\obj\Debug\Shared.dll
+C:\Daten\DEV\Git\AlexWebserver\src\Shared\obj\Debug\Shared.pdb
