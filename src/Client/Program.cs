@@ -26,30 +26,15 @@ namespace Client
 
             while (!String.Equals(url, "exit", StringComparison.OrdinalIgnoreCase))
             {
-                HttpRequest request = null;
-                Socket serverSocket = null;
-
                 try
                 {
+                    HttpRequest request = null;
+                    Socket serverSocket = null;
+
                     request = HttpRequest.CreateByUrl(url);
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine("Der Request kann nicht erzeugt werden: " + ex.Message + "\n");
-                }
 
-                try
-                {
                     serverSocket = openSocket(getIpAdressFromUrl(url), getPortFromUrl(url));
-                }
-                catch (Exception ex)
-                {
 
-                    throw;
-                }
-
-                try
-                {
                     var response = sendRequest(request);
 
                     Console.WriteLine("So sieht die HTTP-Response aus:");
@@ -59,9 +44,13 @@ namespace Client
                 {
                     Console.WriteLine("Es ist ein Fehler aufgetreten: " + ex.Message);
                 }
+                finally
+                {
+                    Console.WriteLine("\n");
+                    Console.Write("URL im Format [http://{IP-Adresse}:{Port}/Dateipfad] angeben oder 'exit' zum Beenden. ");
+                    url = Console.ReadLine();
+                }
             }
-
-            Console.Read();
         }
 
         private static void printTitle()
@@ -69,7 +58,6 @@ namespace Client
             Console.WriteLine("#####################################");
             Console.WriteLine("## AlexWebserver - Beispiel Client ##");
             Console.WriteLine("#####################################\n");
-            Console.WriteLine("Stell eine Anfrage an den Webserver \n(und stelle sicher, dass der Server auch läuft)\n");
         }
 
         private static Socket openSocket(String ipAdress, Int32 port)
@@ -114,7 +102,7 @@ namespace Client
 
             var urlParts = url.Split(new Char[] { ':', '/' });
 
-            if(urlParts.Length < 2)
+            if (urlParts.Length < 2)
             {
                 throw new FormatException("Die URL hat nicht das Format [http://{IP-Adresse}:{Port}/Dateipfad]");
             }
